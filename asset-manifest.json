@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Skill-test-codingNinjas/static/css/main.dc25b9a6.css",
+    "main.js": "/Skill-test-codingNinjas/static/js/main.efb44557.js",
+    "index.html": "/Skill-test-codingNinjas/index.html",
+    "main.dc25b9a6.css.map": "/Skill-test-codingNinjas/static/css/main.dc25b9a6.css.map",
+    "main.efb44557.js.map": "/Skill-test-codingNinjas/static/js/main.efb44557.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc25b9a6.css",
+    "static/js/main.efb44557.js"
+  ]
+}
